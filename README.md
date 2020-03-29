@@ -12,3 +12,35 @@ It is a game to let user input a number and let the phone to randomly guess it. 
 
 ## App Demo
 <img  src="https://github.com/fishxxxx/RN-NumberGame/blob/master/app_demo1.gif" width="300">
+
+## File Structure
+```
+├─ assets
+│	├─ fonts
+│	│	├─ OpenSans-Bold.ttf
+│	│	└─ OpenSans-Regular.ttf
+│	├─ icon.png
+│	├─ images
+│	│	└─ game_over.jpg
+│	└─ splash.png
+│
+├─ components
+│	├─ BodyText.js
+│	├─ Card.js
+│	├─ CustomButton.js
+│	├─ Header.js
+│	├─ Input.js
+│	├─ NumberContainer.js
+│	└─ TitleText.js
+│
+├─ constants
+│	├─ colors.js
+│	└─ default-styles.js
+│
+├─ screens
+│	├─ GameOverPage.js
+│	├─ GamePage.js
+│	└─ StartGamePage.js
+│
+└─ App.js
+```
