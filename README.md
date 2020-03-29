@@ -11,4 +11,4 @@ expo start
 It is a game to let user input a number and let the phone to randomly guess it. During the guessing, user needs to provide hint (smaller/greater) to the phone.
 
 ## App Demo
-<img  src="https://github.com/fishxxxx/RN-NumberGame/blob/master/app_demo.gif" width="300">
+
