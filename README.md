@@ -1,17 +1,21 @@
 # Guess A Number Game
 
-It is a React-Native App which is built by using [Expo](https://expo.io/).
-
-It is really easy to start with.
-```
-expo init my-new-project
-cd my-new-project
-expo start
-```
-It is a game to let user input a number and let the phone to randomly guess it. During the guessing, user needs to provide hint (smaller/larger) to the phone.
-
-## App Demo
+## Project information
+It is a React-Native App. It is a game to let user input a number and let the phone to randomly guess it. During the guessing, user needs to provide hint (smaller/larger) to the phone.  
 <img  src="https://github.com/fishxxxx/RN-NumberGame/blob/master/app_demo1.gif" width="300">
+
+## Technology
+ - [Expo](https://expo.io/)
+ - [React-native](https://reactnative.dev/)
+ - [React-Hook](https://reactjs.org/docs/hooks-intro.html)
+ 
+## Installation
+```
+npm install expo-cli --global
+expo start
+
+# open Android / iOS Emulator 
+```
 
 ## File Structure
 ```
@@ -44,3 +48,6 @@ It is a game to let user input a number and let the phone to randomly guess it. 
 │
 └─ App.js
 ```
+
+## Inspiration
+This is base on [React Native - The Practical Guide 2020](https://www.udemy.com/course/react-native-the-practical-guide/) by Maximilian Schwarzmüller
