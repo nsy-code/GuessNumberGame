@@ -6,7 +6,7 @@
 3. [Design](#design)
 4. [Features](#features)
 5. [Installation](#installation)
-6. [Inspiration](#inspiration)
+6. [Reference](#reference)
 
 
 <a name="appinfo"></a>
@@ -71,6 +71,6 @@ expo start
 # open Android / iOS Emulator 
 ```
 
-<a name="inspiration"></a>
-## Inspiration
-This is base on [React Native - The Practical Guide 2020](https://www.udemy.com/course/react-native-the-practical-guide/) by Maximilian Schwarzmüller
+<a name="reference"></a>
+## Reference
+[React Native - The Practical Guide 2020](https://www.udemy.com/course/react-native-the-practical-guide/) by Maximilian Schwarzmüller
