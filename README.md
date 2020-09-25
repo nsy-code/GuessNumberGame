@@ -12,7 +12,7 @@
 <a name="appinfo"></a>
 ## Project information
 It is a React-Native App. It is a game to let user input a number and let the phone to randomly guess it. During the guessing, user needs to provide hint (smaller/larger) to the phone.  
-<img  src="https://github.com/fishxxxx/RN-NumberGame/blob/master/app_demo1.gif" width="300">
+<img  src="./app_demo1.gif" width="300">
 
 <a name="technologies"></a>
 ## Technology
